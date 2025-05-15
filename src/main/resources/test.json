@@ -1,0 +1,22 @@
+{
+  "id": 123,
+  "name": "www",
+  "score": 95.5,
+  "graduated": true,
+  "age": null,
+  "courseList": ["1", "2", "3"],
+  "pet": {
+    "name": "fff",
+    "age": 10
+  },
+  "petList": [
+    {
+      "name": "ttt",
+      "age": 6
+    },
+    {
+      "name": "ppp",
+      "age": 8
+    }
+  ]
+}
